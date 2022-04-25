@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vidio/static/css/main.12120737.css",
+    "main.js": "/vidio/static/js/main.b7544570.js",
+    "static/media/vidio.mp4": "/vidio/static/media/vidio.f069e83180cfb6c57d23.mp4",
+    "index.html": "/vidio/index.html",
+    "main.12120737.css.map": "/vidio/static/css/main.12120737.css.map",
+    "main.b7544570.js.map": "/vidio/static/js/main.b7544570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12120737.css",
+    "static/js/main.b7544570.js"
+  ]
+}
