@@ -1,10 +1,10 @@
-import Player from "./Player";
+import RoutesMain from "./router";
 
 function App() {
   return (
-    <div className="App">
-      <Player />
-    </div>
+    <>
+      <RoutesMain />
+    </>
   );
 }
 
